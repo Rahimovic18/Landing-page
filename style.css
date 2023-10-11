@@ -111,6 +111,50 @@ margin-right: 400px;
  right: 500px;
  margin-top:400px ;
  font-size: 30px;
+}
 
+.pied{
+   height: 300px; 
+   width: 1830px;
+   display: flex;
+   align-items: center;
+}
+.pie{
+   height: 150px; 
+   width: 800px; 
+   background-color:blue;
+   position: relative;
+   left: 500px;
+   align-items: center;
+   }
+.pi{
+   height: 30px; 
+   width: 150px; 
+   margin-top: -50px;
+   position: relative;
+   margin-left: 600px;
+}
+.p{
+   font-size: 20px;
+   margin-top: 60px;
+   color: white;
+   margin-left: 50px;
+}
+.seconnecter{
+   height: 30px; 
+   width: 150px; 
+   border-radius:10%;
+}
+.footer{
+   height: 100px; 
+   width: 1830px; 
+  background-color: #1F2937; 
+  color: white;
+  text-align: center;
+  border: solid;
+}
+.Copyright{
+   font-size: 20px;
+   margin-top: 2%;
 
 }
