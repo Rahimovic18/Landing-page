@@ -7,6 +7,11 @@ display: flex;
 gap: 10px;
 }
 
+.body{
+   margin:0 ;
+   padding: 0;
+}
+
 .header1{
    height: 50px;
    width: 400px;
